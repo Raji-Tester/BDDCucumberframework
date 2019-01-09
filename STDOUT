@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="98.052973">
+<testcase classname="Clear score Task handle" name="Check the clear score calculator" time="98.052973">
+<system-out><![CDATA[Given I Navigate to webpage"https://www.clearscore.com/savings-calculator"..passed
+When I update current score to 50 and score goal to 680.....................passed
+Then I check potential saving is 384........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

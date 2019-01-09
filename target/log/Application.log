@@ -1,0 +1,14 @@
+08/01/2019 14:40:45 devpinoyLogger this is for Before Test
+08/01/2019 14:40:45 devpinoyLogger Initializing Browser and open Browser
+08/01/2019 14:41:36 devpinoyLogger initializing property file
+08/01/2019 14:41:37 devpinoyLogger Open Webpage https://www.clearscore.com/savings-calculator
+08/01/2019 14:41:55 devpinoyLogger Take screen shot before updating 
+08/01/2019 14:41:56 devpinoyLogger  update current score to 50 
+08/01/2019 14:42:12 devpinoyLogger update Scoregoal score to 680 
+08/01/2019 14:42:22 devpinoyLogger Take screen shot afetr updating 
+08/01/2019 14:42:22 devpinoyLogger get ActualPotencialSaving value  
+08/01/2019 14:42:22 devpinoyLogger print ActualPotencialSaving value  
+08/01/2019 14:42:22 devpinoyLogger check potential saving Actual and Expected value
+08/01/2019 14:42:22 devpinoyLogger print if ActualPotencialSaving and ExpectedP_saving are not  match384384
+08/01/2019 14:42:22 devpinoyLogger this is for after Test
+08/01/2019 14:42:22 devpinoyLogger Close Browser
